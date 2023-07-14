@@ -1,0 +1,8 @@
+C:\DotnetTraining\Day5\ConAppDayFiveExercise\ConAppDayFiveExercise\bin\Debug\ConAppDayFiveExercise.exe.config
+C:\DotnetTraining\Day5\ConAppDayFiveExercise\ConAppDayFiveExercise\bin\Debug\ConAppDayFiveExercise.exe
+C:\DotnetTraining\Day5\ConAppDayFiveExercise\ConAppDayFiveExercise\bin\Debug\ConAppDayFiveExercise.pdb
+C:\DotnetTraining\Day5\ConAppDayFiveExercise\ConAppDayFiveExercise\obj\Debug\ConAppDayFiveExercise.csproj.AssemblyReference.cache
+C:\DotnetTraining\Day5\ConAppDayFiveExercise\ConAppDayFiveExercise\obj\Debug\ConAppDayFiveExercise.csproj.SuggestedBindingRedirects.cache
+C:\DotnetTraining\Day5\ConAppDayFiveExercise\ConAppDayFiveExercise\obj\Debug\ConAppDayFiveExercise.csproj.CoreCompileInputs.cache
+C:\DotnetTraining\Day5\ConAppDayFiveExercise\ConAppDayFiveExercise\obj\Debug\ConAppDayFiveExercise.exe
+C:\DotnetTraining\Day5\ConAppDayFiveExercise\ConAppDayFiveExercise\obj\Debug\ConAppDayFiveExercise.pdb
