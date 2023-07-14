@@ -3,7 +3,7 @@ using System.Collections;
 
 namespace ConAppDayFiveExercise
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
@@ -48,6 +48,7 @@ namespace ConAppDayFiveExercise
             {
                 Console.WriteLine(fruit);
             }
+            Console.ReadKey();
         }
     }
 }
